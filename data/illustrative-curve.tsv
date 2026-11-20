@@ -1,0 +1,7 @@
+phase	pre_ai_pct	agent_era_pct	evidence_type
+Specify	5	12	illustrative
+Design	5	5	illustrative
+Build	45	15	illustrative
+Verify	20	35	illustrative
+Operate	10	18	illustrative
+Ramp	15	15	illustrative
