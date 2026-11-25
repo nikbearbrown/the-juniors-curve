@@ -1,5 +1,11 @@
 # The Junior's Curve
 
+**How entry-level STEM work is changing.**
+
+[Read the posting methods](methods/entry-level-stem.md) · [Read the pilot design](methods/phase-measurement.md) · [Help with the paper](CONTRIBUTING.md)
+
+**We're inviting collaborators.** Review one claim, check a source, or take on one of the tasks listed below. You don't need to review the whole paper to help. To join, follow [Getting started](CONTRIBUTING.md#getting-started) in the contributor guide.
+
 Research in progress. How is entry-level STEM work changing? This is the early-career slice of [A New Shape for Work](https://github.com/nikbearbrown/a-new-shape-for-work), using the same work-phase framework. The first strand tracks what employers ask of new entrants across technical STEM, not just software. A separate software pilot asks how coding agents affect what first-year developers actually do and learn.
 
 The working hypothesis is that agent access shifts **human active effort** from implementation toward specification and verification. Effects on design, operations, total effort, quality, and durable learning are open empirical questions. Job ads measure stated demand, not hiring, work time, productivity, or learning. The software pilot does not stand in for all STEM work.
@@ -24,7 +30,7 @@ There is no draft yet. The closest documents are the two methods files: [methods
 
 ## How to contribute
 
-Read the [contributor guide](CONTRIBUTING.md). It lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
+Start with [Getting started](CONTRIBUTING.md#getting-started) in the [contributor guide](CONTRIBUTING.md): read the draft or plan, pick one thing to do, and email Nik to be added as a collaborator. The guide lists each kind of contribution with where to start and what to send, the rules for this repo, how to submit, and how credit and authorship work.
 
 - **A quick contribution:** open an issue about one claim, source or decision. You don't need to review the whole paper.
 - **To become an author:** take on a component of the work, help write the paper, approve the final version and agree to be accountable for it. The guide explains each step.
