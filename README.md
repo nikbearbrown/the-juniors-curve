@@ -4,6 +4,8 @@ Research in progress. How is entry-level STEM work changing? This is the early-c
 
 The working hypothesis is that agent access shifts **human active effort** from implementation toward specification and verification. Effects on design, operations, total effort, quality, and durable learning are open empirical questions. Job ads measure stated demand, not hiring, work time, productivity, or learning. The software pilot does not stand in for all STEM work.
 
+**Want to help?** Read [CONTRIBUTING.md](CONTRIBUTING.md) for what the study needs and how credit works.
+
 - `data/illustrative-curve.tsv`: the author's hypothetical phase shares, **not observations or estimates**.
 - [Entry-level STEM posting methods](methods/entry-level-stem.md): how we will build comparable cohorts and measure change. No trend is reported yet.
 - `methods/phase-measurement.md`: a proposed, not preregistered, pilot.
